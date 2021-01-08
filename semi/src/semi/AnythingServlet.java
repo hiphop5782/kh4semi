@@ -1,4 +1,4 @@
-package semi;
+package src.semi;
 
 import java.io.IOException;
 
